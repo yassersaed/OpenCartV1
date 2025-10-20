@@ -1,0 +1,251 @@
+2025-03-28 15:17:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:18:22 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:18:24 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:18:26 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:18:26 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:18:26 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:18:27 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:18:27 INFO  TC_1CreateAccount:49 - Email entered:rHNUn@gmail.com
+2025-03-28 15:18:27 INFO  TC_1CreateAccount:53 - Entered phone number:0618181995
+2025-03-28 15:18:27 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:18:28 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:18:29 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:18:29 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:18:29 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:18:42 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:18:42 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:18:43 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:18:43 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:18:43 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:18:43 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:18:45 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:18:45 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:18:45 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:18:55 INFO  TC_3Logout:33 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:18:55 INFO  TC_3Logout:38 - Clicked on 'My Account' link.
+2025-03-28 15:18:56 INFO  TC_3Logout:41 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:18:56 INFO  TC_3Logout:46 - Entering login credentials...
+2025-03-28 15:18:56 INFO  TC_3Logout:48 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:18:57 INFO  TC_3Logout:51 - Entered password.
+2025-03-28 15:18:58 INFO  TC_3Logout:54 - Clicked on the 'Login' button.
+2025-03-28 15:18:58 INFO  TC_3Logout:59 - Checking if 'My Account' page is displayed...
+2025-03-28 15:18:58 INFO  TC_3Logout:62 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:18:58 INFO  TC_3Logout:65 - Logging out from the account...
+2025-03-28 15:18:59 INFO  TC_3Logout:67 - Clicked on 'Logout' link.
+2025-03-28 15:18:59 INFO  TC_3Logout:70 - Clicking on 'Continue' button to navigate back to the Home Page...
+2025-03-28 15:18:59 INFO  TC_3Logout:74 - Checking if the Home Page is displayed after logout...
+2025-03-28 15:18:59 INFO  TC_3Logout:77 - Logout successful. Navigated back to the Home Page.
+2025-03-28 15:19:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:19:54 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:19:54 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:49 - Email entered:FLrnw@gmail.com
+2025-03-28 15:19:56 INFO  TC_1CreateAccount:53 - Entered phone number:8162735816
+2025-03-28 15:19:57 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:19:57 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:19:58 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:19:58 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:19:58 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:20:11 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:20:11 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:20:12 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:20:12 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:20:12 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:20:12 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:20:14 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:20:14 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:20:14 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:20:28 INFO  TC_3Logout:33 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:20:28 INFO  TC_3Logout:38 - Clicked on 'My Account' link.
+2025-03-28 15:20:29 INFO  TC_3Logout:41 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:20:29 INFO  TC_3Logout:46 - Entering login credentials...
+2025-03-28 15:20:29 INFO  TC_3Logout:48 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:20:29 INFO  TC_3Logout:51 - Entered password.
+2025-03-28 15:20:30 INFO  TC_3Logout:54 - Clicked on the 'Login' button.
+2025-03-28 15:20:30 INFO  TC_3Logout:59 - Checking if 'My Account' page is displayed...
+2025-03-28 15:20:30 INFO  TC_3Logout:62 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:20:30 INFO  TC_3Logout:65 - Logging out from the account...
+2025-03-28 15:20:32 INFO  TC_3Logout:67 - Clicked on 'Logout' link.
+2025-03-28 15:20:32 INFO  TC_3Logout:70 - Clicking on 'Continue' button to navigate back to the Home Page...
+2025-03-28 15:20:33 INFO  TC_3Logout:74 - Checking if the Home Page is displayed after logout...
+2025-03-28 15:20:33 INFO  TC_3Logout:77 - Logout successful. Navigated back to the Home Page.
+2025-03-28 15:21:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:21:25 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:21:25 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:49 - Email entered:bgaWC@gmail.com
+2025-03-28 15:21:27 INFO  TC_1CreateAccount:53 - Entered phone number:8804350242
+2025-03-28 15:21:28 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:21:28 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:21:29 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:21:29 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:21:29 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:21:41 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:21:41 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:21:42 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:21:42 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:21:42 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:21:42 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:21:44 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:21:44 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:21:44 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:22:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:22:54 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:22:55 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:49 - Email entered:sRjud@gmail.com
+2025-03-28 15:22:57 INFO  TC_1CreateAccount:53 - Entered phone number:6926546370
+2025-03-28 15:22:58 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:22:58 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:23:01 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:23:01 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:23:01 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:23:10 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:23:11 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:23:11 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:23:11 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:23:12 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:23:12 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:23:13 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:23:13 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:23:13 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:23:24 INFO  TC_4SearchProduct:27 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:23:24 INFO  TC_4SearchProduct:31 - Navigated to the Home page.
+2025-03-28 15:23:24 INFO  TC_4SearchProduct:36 - Entered product name in search field: iphone
+2025-03-28 15:23:25 INFO  TC_4SearchProduct:40 - Clicked on the 'Search' button to initiate product search.
+2025-03-28 15:23:25 INFO  TC_4SearchProduct:44 - Navigated to the Search Results page.
+2025-03-28 15:23:25 INFO  TC_4SearchProduct:49 - Verifying if the product 'iphone' is displayed in the search results.
+2025-03-28 15:24:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:24:49 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:24:49 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:24:50 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:24:50 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:24:50 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:24:50 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:24:51 INFO  TC_1CreateAccount:49 - Email entered:ecSaj@gmail.com
+2025-03-28 15:24:51 INFO  TC_1CreateAccount:53 - Entered phone number:8148817726
+2025-03-28 15:24:51 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:24:51 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:24:53 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:24:53 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:24:53 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:25:03 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:25:04 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:25:05 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:25:05 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:25:05 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:25:05 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:25:07 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:25:07 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:25:07 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:25:17 INFO  TC_4SearchProduct:27 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:25:17 INFO  TC_4SearchProduct:31 - Navigated to the Home page.
+2025-03-28 15:25:17 INFO  TC_4SearchProduct:36 - Entered product name in search field: mac
+2025-03-28 15:25:18 INFO  TC_4SearchProduct:40 - Clicked on the 'Search' button to initiate product search.
+2025-03-28 15:25:18 INFO  TC_4SearchProduct:44 - Navigated to the Search Results page.
+2025-03-28 15:25:18 INFO  TC_4SearchProduct:49 - Verifying if the product 'mac' is displayed in the search results.
+2025-03-28 15:25:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:25:59 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:25:59 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:26:00 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:26:00 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:49 - Email entered:vCtYL@gmail.com
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:53 - Entered phone number:1504250296
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:26:01 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:26:03 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:26:03 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:26:03 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:26:13 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:26:13 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:26:14 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:26:14 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:26:14 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:26:14 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:26:15 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:26:15 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:26:16 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:26:25 INFO  TC_4SearchProduct:27 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:26:25 INFO  TC_4SearchProduct:31 - Navigated to the Home page.
+2025-03-28 15:26:26 INFO  TC_4SearchProduct:36 - Entered product name in search field: mac
+2025-03-28 15:26:27 INFO  TC_4SearchProduct:40 - Clicked on the 'Search' button to initiate product search.
+2025-03-28 15:26:27 INFO  TC_4SearchProduct:44 - Navigated to the Search Results page.
+2025-03-28 15:26:27 INFO  TC_4SearchProduct:49 - Verifying if the product 'MacBook' is displayed in the search results.
+2025-03-28 15:26:27 INFO  TC_4SearchProduct:53 - Product 'MacBook' found in search results. Test passed.
+2025-03-28 15:34:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\yasser\Downloads\OpenCartV1\testng.xml
+
+2025-03-28 15:34:46 INFO  TC_1CreateAccount:29 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:34:46 INFO  TC_1CreateAccount:34 - Clicked on MyAccount link.
+2025-03-28 15:34:56 INFO  TC_1CreateAccount:37 - Clicked on Register link, navigated to Registration page.
+2025-03-28 15:34:56 INFO  TC_1CreateAccount:40 - Entering user details...
+2025-03-28 15:34:56 INFO  TC_1CreateAccount:42 - First Name set successfully...
+2025-03-28 15:34:57 INFO  TC_1CreateAccount:45 - Last Name set successfully...
+2025-03-28 15:34:57 INFO  TC_1CreateAccount:49 - Email entered:nutym@gmail.com
+2025-03-28 15:34:57 INFO  TC_1CreateAccount:53 - Entered phone number:9997144034
+2025-03-28 15:34:57 INFO  TC_1CreateAccount:59 - Entered password and confirmed password successfully.
+2025-03-28 15:34:57 INFO  TC_1CreateAccount:63 - Agreed to Privacy Policy.
+2025-03-28 15:34:59 INFO  TC_1CreateAccount:66 - Clicked 'Continue' to submit the registration form.
+2025-03-28 15:34:59 INFO  TC_1CreateAccount:69 - Validating the confirmation message...
+2025-03-28 15:34:59 INFO  TC_1CreateAccount:73 - Account registration successful. Confirmation message validated.
+2025-03-28 15:35:11 INFO  TC_2Login:28 - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-03-28 15:35:11 INFO  TC_2Login:33 - Clicked on 'My Account' link.
+2025-03-28 15:35:12 INFO  TC_2Login:36 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:35:12 INFO  TC_2Login:39 - Entering user data...
+2025-03-28 15:35:12 INFO  TC_2Login:42 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:35:12 INFO  TC_2Login:46 - Entered password: 
+2025-03-28 15:35:13 INFO  TC_2Login:49 - Clicked on the 'Login' button.
+2025-03-28 15:35:13 INFO  TC_2Login:53 - Verifying if the 'My Account' page is displayed...
+2025-03-28 15:35:13 INFO  TC_2Login:57 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:35:38 INFO  TC_3Logout:33 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:35:38 INFO  TC_3Logout:38 - Clicked on 'My Account' link.
+2025-03-28 15:35:42 INFO  TC_3Logout:41 - Clicked on 'Login' link, navigating to the Login Page.
+2025-03-28 15:35:42 INFO  TC_3Logout:46 - Entering login credentials...
+2025-03-28 15:35:42 INFO  TC_3Logout:48 - Entered email: yassarsaid44@gmail.com
+2025-03-28 15:35:43 INFO  TC_3Logout:51 - Entered password.
+2025-03-28 15:35:44 INFO  TC_3Logout:54 - Clicked on the 'Login' button.
+2025-03-28 15:35:44 INFO  TC_3Logout:59 - Checking if 'My Account' page is displayed...
+2025-03-28 15:35:44 INFO  TC_3Logout:62 - Login successful. 'My Account' page is displayed.
+2025-03-28 15:35:44 INFO  TC_3Logout:65 - Logging out from the account...
+2025-03-28 15:35:52 INFO  TC_3Logout:67 - Clicked on 'Logout' link.
+2025-03-28 15:35:52 INFO  TC_3Logout:70 - Clicking on 'Continue' button to navigate back to the Home Page...
+2025-03-28 15:35:52 INFO  TC_3Logout:74 - Checking if the Home Page is displayed after logout...
+2025-03-28 15:35:52 INFO  TC_3Logout:77 - Logout successful. Navigated back to the Home Page.
+2025-03-28 15:36:02 INFO  TC_4SearchProduct:27 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:36:02 INFO  TC_4SearchProduct:31 - Navigated to the Home page.
+2025-03-28 15:36:02 INFO  TC_4SearchProduct:36 - Entered product name in search field: mac
+2025-03-28 15:36:03 INFO  TC_4SearchProduct:40 - Clicked on the 'Search' button to initiate product search.
+2025-03-28 15:36:03 INFO  TC_4SearchProduct:44 - Navigated to the Search Results page.
+2025-03-28 15:36:04 INFO  TC_4SearchProduct:49 - Verifying if the product 'MacBook' is displayed in the search results.
+2025-03-28 15:36:04 INFO  TC_4SearchProduct:53 - Product 'MacBook' found in search results. Test passed.
+2025-03-28 15:36:13 INFO  TC5_AddToCart:30 - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-03-28 15:36:13 INFO  TC5_AddToCart:38 - Entered product name in the search box: iPhone
+2025-03-28 15:36:14 INFO  TC5_AddToCart:42 - Clicked the Search button.
+2025-03-28 15:36:14 INFO  TC5_AddToCart:46 - Product found in search results: iPhone
+2025-03-28 15:36:19 INFO  TC5_AddToCart:50 - Selected product: iPhone
+2025-03-28 15:36:19 INFO  TC5_AddToCart:54 - Set quantity to: null
+2025-03-28 15:36:20 INFO  TC5_AddToCart:58 - Clicked 'Add to Cart' for product: iPhone
+2025-03-28 15:36:20 INFO  TC5_AddToCart:63 - Success message verified successfully.
